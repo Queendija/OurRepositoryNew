@@ -24,10 +24,10 @@ public class CalculatriceTest {
        org.junit.Assert.assertEquals(6, result);
    }
 
-   @Test
+  /* @Test
    public void testMinus() {
        org.junit.Assert.assertEquals(0, calculator.minus(2, 2));
-   }
+   }*/
 
 
 
