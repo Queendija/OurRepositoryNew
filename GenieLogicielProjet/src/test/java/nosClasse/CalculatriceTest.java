@@ -7,6 +7,9 @@ import org.junit.Test;
 public class CalculatriceTest {
 
 	 //create a setup method to init
+	/**
+	 * De la part de Simo
+	 */
 	
    Calculatrice calculator;
    @Before
