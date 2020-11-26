@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="nosClasse.CalculatriceTest" time="0.003" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="nosClasse.CalculatriceTest" time="0.004" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\lo Sene\eclipse-workspace-genilogiciel\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6173609890867110747.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\lo Sene\eclipse-workspace-genilogiciel\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8752668284694111794.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Users\lo Sene\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\lo Sene\AppData\Local\Programs\Python\Python39\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\lo Sene\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;C:\Program Files\Java\jdk1.8.0_181\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin;;C:\Users\lo Sene\Downloads\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="nosClasse.CalculatriceTest" name="testMax" time="0.003"/>
+  <testcase classname="nosClasse.CalculatriceTest" name="testMax" time="0.004"/>
   <testcase classname="nosClasse.CalculatriceTest" name="testMin" time="0"/>
   <testcase classname="nosClasse.CalculatriceTest" name="testSum" time="0"/>
   <testcase classname="nosClasse.CalculatriceTest" name="testMaxElement" time="0"/>
